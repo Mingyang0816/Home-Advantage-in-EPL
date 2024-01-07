@@ -7,8 +7,8 @@ The English Premier League boasts some of the most intimidating stadiums in the 
 
 ### Content & Findings
 1. Overview of Home Advantage in 2022-23 Season
-    - Bar chart shows that home team has double the chance of winning than away team
-2. Two-sample T test to statistically prove that a team wins more points at home than away
+    - Home team has double the chance of winning than away team
+2. Two-sample T test: statistically prove that teams win more points at home than away
     - Verified assumption of normality using Kernal Density Estimate and Shapiro-Wilk Test
     - Verified assumption of homoscedasticity using Bartlett Test
 3. Team Breakdown: Attacking Performance
