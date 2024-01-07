@@ -1,6 +1,6 @@
 # Home Advantage in the English Premier League - Myth or Reality?
 
-### [Medium Article](https://www.bruinsportsanalytics.com/post/home-advantage-in-premier-league)
+### [Link to Medium Article](https://www.bruinsportsanalytics.com/post/home-advantage-in-premier-league)
 
 ### Abstract
 The English Premier League boasts some of the most intimidating stadiums in the world of football. No opposing team would fancy playing in Liverpool’s Anfield Stadium enveloped by an army of Red Kops, or on a cold, wet Tuesday night in Stoke City’s Britannia Stadium. Hence, a widely acknowledged concept in football is the phenomenon of home-field advantage - a tendency for teams to perform better when playing in their home stadium compared to playing away in an opposing team’s stadium. Using web-scraped data from FBref, we will compare the home and away performances of the 20 teams in the 2022-23 Premier League season through insightful visualizations, unraveling both general and unexpected trends. Check out our Medium Article in the link above to find out more!
